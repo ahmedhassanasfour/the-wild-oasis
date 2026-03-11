@@ -59,7 +59,10 @@ npm run build
 
 You can view the deployed project here:
 https://the-wild-oasis-ahm.vercel.app/
-https://the-wild-oasis-amh.netlify.app/
+https://the-wild-oasis-amh.netlify.app/ 
+
+email:ahmed@example.com  
+password:123456789
 
 ## 📚 Learning Purpose
 
