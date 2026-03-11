@@ -58,6 +58,7 @@ npm run build
 ## 🌐 Live Demo
 
 You can view the deployed project here:
+https://the-wild-oasis-ahm.vercel.app/
 https://the-wild-oasis-amh.netlify.app/
 
 ## 📚 Learning Purpose
